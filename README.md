@@ -10,10 +10,7 @@ Segue abaixo as solicitações do 1o bimestre:
 Efetuar a introdução do trabalho que está sendo desenvolvido, e colocar o link do projeto.  
 
 * **Engenharia de Software II**  
-Diagrama de Caso de Uso   
-Telas  
-Documento do Visão    
-Pedido do Investidor  
+Criar o site do projeto, onde deve constar a introdução e objetivo do projeto, integrantes, Diagrama de Caso de Uso, Telas, Documento do Visão e Pedido do Investidor  
 
 * **IHC**   
 Efetuar um levantamento de sistemas concorrentes ao seu projeto e analisar do ponto de vista da **usabilidade**, e escrever um relatório.  
