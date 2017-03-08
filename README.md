@@ -25,6 +25,10 @@ Transformar o esboço das telas no Swing **sem utilizar** o WindowBuilder (ex. N
 Desenvolver o Diagrama de Entidade Relacionamento (DER) aplicando as técnicas de normalização referente ao projeto que está sendo desenvolvido.
   
 * **Redes de Computadores**  
-Iniciar um estudo sobre Segurança da Informação, pode ser os conceitos gerais tratados nas ISO 27001 e 27002, ou algoritmos de criptografia e/ou hash, entregar em forma de relatório. 
+Iniciar um estudo sobre Segurança da Informação, pode ser os conceitos gerais tratados nas ISO 27001 e 27002, ou algoritmos de criptografia e/ou hash, entregar em forma de relatório.   
 
-
+* **Compiladores**  
+Discutir ferramentas de programação como IDEs, que facilitam a produção de código.  
+  
+* **Linguagem de Programação III**  
+Fazer um estudo sobre as melhores práticas de capturar e tratar exceções no funcionamento do software. Como gerar logs que tenham significado para facilitar a identificação e resolução de problemas.
