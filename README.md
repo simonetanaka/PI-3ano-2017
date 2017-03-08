@@ -18,7 +18,7 @@ Pedido do Investidor
 * **IHC**   
 Efetuar um levantamento de sistemas concorrentes ao seu projeto e analisar do ponto de vista da **usabilidade**, e escrever um relatório.  
   
-* **Laboratório de Computação II**   
+* **Laboratório de Computação III**   
 Transformar o esboço das telas no Swing **sem utilizar** o WindowBuilder (ex. NetBeans e Eclipse)  
   
 * **Banco de Dados**  
